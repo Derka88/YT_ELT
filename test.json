@@ -1,0 +1,72 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "CgCBnM7CW8teVfpT7_-cNW_ELUE",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Q7xAn1XNSqspoVNAApG8yGm4prY",
+      "id": "oBXSvS2QKxU",
+      "snippet": {
+        "publishedAt": "2025-10-11T16:00:00Z",
+        "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+        "title": "100 Kids Vs World's Strongest Man!",
+        "description": "No one could have predicted that outcome at the end lol\n\nFeastables launched a new variety bag in Costco just in time for Halloween so you can give out mini sizes of our favorite flavors to trick-or-treaters! Find a store near you 👉 https://www.costco.com/w/-/locations FeastablesPartner\n\nIncase you noticed the turbines moving during the Plane Pull section of the video, we just wanted to mention these engines were on idle therefore not sucking in any air. In order to control the planes braking system you have to have the engines on idle, which is standard in every strong man competition. We also had 2 pilots in the plane with full control of the aircraft along with personnel in contact and guiding them to ensure everything was safe for the kids, parents and crew we had on set that day.\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBXSvS2QKxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBXSvS2QKxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBXSvS2QKxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oBXSvS2QKxU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oBXSvS2QKxU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MrBeast",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "100 Kids Vs World's Strongest Man!",
+          "description": "No one could have predicted that outcome at the end lol\n\nFeastables launched a new variety bag in Costco just in time for Halloween so you can give out mini sizes of our favorite flavors to trick-or-treaters! Find a store near you 👉 https://www.costco.com/w/-/locations FeastablesPartner\n\nIncase you noticed the turbines moving during the Plane Pull section of the video, we just wanted to mention these engines were on idle therefore not sucking in any air. In order to control the planes braking system you have to have the engines on idle, which is standard in every strong man competition. We also had 2 pilots in the plane with full control of the aircraft along with personnel in contact and guiding them to ensure everything was safe for the kids, parents and crew we had on set that day.\n\nNew Merch - https://mrbeast.store\n\nCheck out Viewstats! - https://www.viewstats.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\nFor any questions or inquiries regarding this video, please reach out to chucky@mrbeastbusiness.com\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "67013068",
+        "likeCount": "1851372",
+        "favoriteCount": "0",
+        "commentCount": "33568"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
