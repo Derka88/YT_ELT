@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv(dotenv_path="./.env")
 API_KEY = os.getenv('API_KEY')
-CHANNEL_HANDLE = "MrBeast"
+CHANNEL_HANDLE = os.getenv("MrBeast") 
 maxResults = 50
 
 def get_playlist_id():
