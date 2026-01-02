@@ -1,4 +1,4 @@
 venv/
 __pycache__/
-00_
+00_test.json
 .env
